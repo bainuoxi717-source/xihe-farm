@@ -1,0 +1,18 @@
+{
+  "name": "xihe-farm",
+  "version": "0.2.0",
+  "private": true,
+  "description": "溪禾手记：数字农业叙事与 AI 辅助探究游戏原型",
+  "scripts": {
+    "start": "node server.cjs",
+    "build": "node build.cjs",
+    "test": "node --test tests/story.test.cjs",
+    "check": "node --check src/main.js && node --check src/world.js && node --check src/story.js && node --check dist/adventure.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
