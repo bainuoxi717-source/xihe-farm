@@ -8,6 +8,10 @@
 
 ## 运行
 
+**直接试玩：** [进入溪禾村](https://bainuoxi717-source.github.io/xihe-farm/)。这是浏览器游戏，无需登录；首次加载后点击进入。当前稳定入口为 v0.2。
+
+**下载与改造：** 仓库已公开，无需邀请。点击 **Code → Download ZIP** 下载当前代码；也可以先 **Fork** 到自己的账号再修改。固定版本保存在 [Releases](https://github.com/bainuoxi717-source/xihe-farm/releases)。
+
 推荐使用 Node.js 18 或更新版本。在项目目录运行：
 
 ```sh
@@ -31,7 +35,7 @@ AI 是明确标注的**本地规则模拟**，会追问观测、比较解释、�
 
 ## 参与共创
 
-先读 [协作说明](CONTRIBUTING.md)，再用 Issue 讨论故事、美术、探究设计或程序改动。仓库拥有者通过 GitHub 的 **Settings → Collaborators → Add people** 邀请成员；私有仓库链接本身不授予访问权限。
+先读 [协作说明](CONTRIBUTING.md)，再用 Issue 讨论故事、美术、探究设计或程序改动。任何人都可以下载或 Fork；希望贡献回本项目时提交 Pull Request。需要直接参与仓库维护的成员，由拥有者在 **Settings → Collaborators → Add people** 邀请。
 
 建议优先验证：玩家是否想主动探索村庄、是否关心周伯、是否能把 AI 的建议转成可检验行动。暂不扩展付费服务或复杂账号系统。
 
@@ -65,4 +69,4 @@ npm run build
 
 Three.js r170 使用 MIT 许可，原许可保存在 [THREE-LICENSE.txt](dist/vendor/THREE-LICENSE.txt)。场景和角色为原创程序化原型；冶愿科技 Logo 来自项目拥有者提供的品牌原图副本，保持原比例与文字，自托管于 `dist/brand/`。
 
-本次建立私有共创仓库不代表向公众授予开源许可。项目代码、故事与品牌素材的对外发布和许可由项目拥有者决定；第三方库遵循各自许可。没有新增付费服务或真实模型 API。
+项目源代码与项目文档使用 [MIT 许可](LICENSE)，可在保留许可声明的前提下修改、分发和使用。品牌与第三方素材范围见 [BRAND.md](BRAND.md)。没有新增付费服务或真实模型 API。

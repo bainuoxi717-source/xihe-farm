@@ -6,7 +6,7 @@
 
 1. 跑通 README 的本机预览，完整试玩一季。
 2. 在 Issue 中描述要改善的具体体验，附场景、问题和预期效果；视觉建议可以附草图或参考。
-3. 从 `main` 创建自己的分支，例如 `story/farmer-memory` 或 `art/village-light`。
+3. 先 Fork 仓库，再从 `main` 创建自己的分支，例如 `story/farmer-memory` 或 `art/village-light`。已有协作者权限的成员可以直接在本仓库创建分支。
 4. 通过 Pull Request 合并，写清改动、验证方式和已知限制。小步提交，避免多人同时修改同一整份脚本。
 
 ## 共同约定
